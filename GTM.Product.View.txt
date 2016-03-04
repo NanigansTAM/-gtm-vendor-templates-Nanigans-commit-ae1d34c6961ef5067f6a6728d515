@@ -5,5 +5,5 @@
        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//api.nanigans.com/NaN_tracker.js';
        var h = document.getElementsByTagName('head')[0]; h.appendChild(s);
    })();
-   NaN_api.push([ {Nanigans site id}, {user id}], ['user', 'product_view', {value}, {'sku':'{product_sku'}]);
+   NaN_api.push([ {Nanigans site id}, {user id}], ['user', 'product_view', {value}, {'sku':{product_sku}]);
 </script>
